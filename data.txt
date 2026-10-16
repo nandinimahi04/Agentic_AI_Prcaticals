@@ -1,0 +1,4 @@
+Artificial Intelligence is a branch of computer science.
+Machine learning allows computers to learn from data.
+Deep learning uses neural networks to solve complex problems.
+Natural language processing allows computers to understand human language.
